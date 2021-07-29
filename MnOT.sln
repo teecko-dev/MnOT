@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MnOT", "MnOT.csproj", "{FEF085CE-FF6E-4081-90E7-AA0445330AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF085CE-FF6E-4081-90E7-AA0445330AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF085CE-FF6E-4081-90E7-AA0445330AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF085CE-FF6E-4081-90E7-AA0445330AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF085CE-FF6E-4081-90E7-AA0445330AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2859AF02-D688-4FA4-AE19-98CFF575C945}
+	EndGlobalSection
+EndGlobal
